@@ -1,0 +1,19 @@
+.tile-container {
+  margin-top: 60px;
+}
+
+.make-tile {
+  height: 250px;
+  margin-top: 50px;
+  border: 3px solid #328f70;
+}
+
+.make-title {
+  display: "inline-block"
+  height: 30%;
+  width: 100%;
+  position: relative;
+  top: 5px;
+  background: #fff;
+  font-size: 1.8em;
+}
